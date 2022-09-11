@@ -18,7 +18,7 @@ const Assaf = {
 
 #### :computer: Programming languages and tools: 
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Npm](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite)
