@@ -32,4 +32,5 @@ const Assaf = {
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
