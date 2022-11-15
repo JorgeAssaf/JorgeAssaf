@@ -5,8 +5,8 @@ Welcome to my Github page! I'm Jorge Assaf Salinas and I have finished my techni
 ```javascript
 const Assaf = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Npm, Yarn, Styled-Components, Jest, VItest, Vite, Material-Ui, Git, Github],
+  code: [Javascript, HTML, CSS],
+  tools: [React, Styled-Components, Jest, Vitest, Vite, Material-Ui, Git, Github],
  
  challenge: "I am focused on learning the advanced topics of React and Typescript."
 }
