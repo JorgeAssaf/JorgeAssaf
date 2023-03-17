@@ -5,15 +5,15 @@ Welcome to my Github page! I'm Jorge Assaf Salinas and I have finished my techni
 ```javascript
 const Assaf = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Styled-Components, Jest, Vitest, Vite, Material-Ui, Git, Github],
+  code: [Javascript, React, Zustand, Next],
+  tools: [React, Styled-Components, Jest, Vitest, Git, Github],
  
  challenge: "I am focused on learning the advanced topics of React and Typescript."
 }
 ```
 #### You can find me 🌍
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JorgeAssaf)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-enrique-assaf-4bba17215/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-enrique-assaf/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jorgeassaf160@gmail.com)
 
 #### :computer: Programming languages and tools: 
