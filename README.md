@@ -1,33 +1,38 @@
 ## Hi everyone <img width="25px" height="25px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gifg">
-Welcome to my Github page! I'm Jorge Assaf Salinas and I have finished my technical career in software development to dedicate myself to Fullstack Web Development  👨‍💻.
+
+### Welcome to my Github profile! 👋
+#### I'am Jorge Assaf, a Frontend Developer from Mexico. I am currently studying Computer Systems Engineering and I am passionate about web development. I am currently learning Next.js and TailwindCSS and making projects with this technologies 
+
 ### About me in code! </>
 
-```javascript
-const Assaf = {
-  pronouns: "he" | "him",
-  code: [Javascript, React, Zustand, Next],
-  tools: [React, Styled-Components, Jest, Vitest, Git, Github],
- 
- challenge: "I am focused on learning the advanced topics of React and Typescript."
+```typescript
+const jorgeAssaf = {
+  pronouns: 'he' | 'him',
+  languages: ['Typescript', 'Javascript', 'Next.js', 'React.js'],
+  tools: ['Zustand','TailwindCSS', 'Shadcn', 'Drizzle', 'Prisma' 'Figma', 'Git', 'Github', 'Vercel'],
+  focusing: 'I am will making a Recipely App with Next.js and TailwindCSS',
 }
 ```
-#### You can find me 🌍
+#### Send me a message or follow me on:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JorgeAssaf)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-enrique-assaf/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jorgeassaf160@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EnriqueAssaf)
+
+
 
 #### :computer: Programming languages and tools: 
   
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Typescript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
+![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Npm](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
