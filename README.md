@@ -14,7 +14,6 @@ const jorgeAssaf = {
 }
 ```
 #### Send me a message or follow me on:
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JorgeAssaf)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-enrique-assaf/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/EnriqueAssaf)
 
@@ -39,3 +38,7 @@ const jorgeAssaf = {
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+---
+<p>
+  <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeassaf&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats />
+</p>
