@@ -1,7 +1,7 @@
 ## Hi everyone <img width="25px" height="25px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gifg">
 
 ### Welcome to my Github profile! 👋
-#### I'am Jorge Assaf, a Frontend Developer from Mexico. I am currently studying Computer Systems Engineering and I am passionate about web development. I am currently learning Next.js and TailwindCSS and making projects with this technologies 
+I'am Jorge Assaf, a Frontend Developer from Mexico. I am currently studying Computer Systems Engineering and I am passionate about web development. I am currently learning Next.js and TailwindCSS and making projects with this technologies 
 
 ### About me in code! </>
 
