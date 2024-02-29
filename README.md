@@ -8,10 +8,11 @@ I'am Jorge Assaf, a Frontend Developer from Mexico. I am currently studying Comp
 ```typescript
 const jorgeAssaf = {
   pronouns: 'he' | 'him',
-  languages: ['Typescript', 'Javascript', 'Next.js', 'React.js'],
-  tools: ['Zustand','TailwindCSS', 'Shadcn', 'Drizzle', 'Prisma' 'Figma', 'Git', 'Github', 'Vercel'],
-  focusing: 'I am will making a Recipely App with Next.js and TailwindCSS',
-}
+  languages: ['JavaScript', 'TypeScript']
+  tools: ['React', 'Next.js', 'Vite', 'Zustand', 'Prisma', 'Drizzle', 'Figma'],
+  ui:['TailwindCSS', 'Shacdn', 'UnoCSS', 'PandaCSS'],
+  focusing: 'Frontend Development',
+};
 ```
 #### Send me a message or follow me on:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-enrique-assaf/)
@@ -24,16 +25,11 @@ const jorgeAssaf = {
 ![Typescript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Npm](https://img.shields.io/badge/-Npm-black?style=flat-square&logo=Npm)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite)
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
