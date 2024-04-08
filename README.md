@@ -35,6 +35,21 @@
   ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
   ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
   ---
-  <p>
-    <img alt="Top Langs" src=https://github-readme-stats.vercel.app/api/top-langs/?username=jorgeassaf&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats />
-  </p>
+
+  #### :trophy: My Top Languages
+
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAssaf&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
+
+  ---
+
+  #### :bar_chart: My Github Stats
+
+  ![Jorge Assaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeassaf&show_icons=true&theme=radical)
+
+  ---
+
+  #### :chart_with_upwards_trend: My Streak Stats
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgeassaf&theme=radical)](https://git.io/streak-stats)
+  ---
