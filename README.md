@@ -19,7 +19,6 @@
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AssafEnrique)
 
 
-
   #### :computer: Programming languages and tools: 
     
   ![Typescript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
@@ -43,13 +42,9 @@
 
   ---
 
-  #### :bar_chart: My Github Stats
-
+  #### :bar_chart: My Github Stats and Streaks  
+ 
   ![Jorge Assaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeassaf&show_icons=true&theme=radical)
 
-  ---
-
-  #### :chart_with_upwards_trend: My Streak Stats
-
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgeassaf&theme=radical)](https://git.io/streak-stats)
-  ---
+
