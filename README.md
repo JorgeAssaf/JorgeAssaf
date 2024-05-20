@@ -46,5 +46,5 @@
  
   ![Jorge Assaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeassaf&show_icons=true&theme=radical)
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jorgeassaf&theme=radical)](https://git.io/streak-stats)
+
 
