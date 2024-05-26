@@ -10,7 +10,7 @@
     pronouns: 'he' | 'him',
     languages: ['JavaScript', 'TypeScript'],
     tools: ['React', 'Next.js', 'Vite', 'Zustand', 'Prisma', 'Drizzle', 'Figma'],
-    ui: ['TailwindCSS', 'Shacdn', 'UnoCSS', 'PandaCSS'],
+    ui: ['TailwindCSS', 'Shadcn', 'UnoCSS', 'PandaCSS'],
     focusing: 'Frontend Development',
   };
   ```
