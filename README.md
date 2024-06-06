@@ -45,6 +45,3 @@
   #### :bar_chart: My Github Stats and Streaks  
  
   ![Jorge Assaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeassaf&show_icons=true&theme=radical)
-
-
-
