@@ -14,24 +14,34 @@
   };
   ```
   #### Send me a message or follow me on:
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-enrique-assaf/)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AssafEnrique)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jorge-enrique-assaf/)
+  [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/AssafEnrique)](https://x.com/AssafEnrique)
+  
 
 
   #### :computer: Programming languages and tools: 
     
-  ![Typescript](https://img.shields.io/badge/-typescript-black?style=flat-square&logo=typescript)
-  ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat-square&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-  ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=Vite)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+  [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+  [![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff)](#)
+  [![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+  [![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff)](#)
+  [![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)](#)
+  [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](#)
+  [![React Table](https://img.shields.io/badge/React%20Table-FF4154?logo=reacttable&logoColor=fff)](#)
   ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-  ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
-  ![Zustand](https://img.shields.io/badge/-Zustand-black?style=flat-square&logo=zustand)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-  ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
-  ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+	[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
+  [![SvelteKit](https://img.shields.io/badge/SvelteKit-%23f1413d.svg?logo=svelte&logoColor=white)](#)
+  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+  [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=fff)](#)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+  [![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)](#)
+  [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+  [![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?logo=drizzle&logoColor=000)](#)
+  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+  [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
+  [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
   ---
 
   #### :trophy: My Top Languages
