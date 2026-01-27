@@ -1,17 +1,16 @@
   ## Hi everyone <img width="25px" height="25px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gifg">
 
   ### Welcome to my Github profile! 👋
-  I'am Jorge Assaf, a Frontend Developer from Mexico. I am currently studying Computer Systems Engineering and I am passionate about web development. I am currently learning Next.js and TailwindCSS and making projects with this technologies 
-
+  I'm Jorge Assaf, a full-stack developer from Mexico. I'm currently studying Computer Systems Engineering and I'm passionate about web development. I work in Mexico City at XDEVELOP.
   ### About me in code! </>
 
   ```typescript
   const jorgeAssaf = {
     pronouns: 'he' | 'him',
     languages: ['JavaScript', 'TypeScript'],
-    tools: ['React', 'Next.js', 'Vite', 'Zustand', 'Prisma', 'Drizzle', 'Figma'],
+    tools: ['React', 'Next.js', 'Vite', 'Zustand', 'Prisma', 'Drizzle', 'Figma','Node'],
     ui: ['TailwindCSS', 'Shadcn', 'UnoCSS', 'PandaCSS'],
-    focusing: 'Frontend Development',
+    focusing: 'Full-stack Development',
   };
   ```
   #### Send me a message or follow me on:
