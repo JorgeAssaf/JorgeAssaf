@@ -1,16 +1,16 @@
   ## Hi everyone <img width="25px" height="25px" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gifg">
 
   ### Welcome to my Github profile! 👋
-  I'm Jorge Assaf, a full-stack developer from Mexico. I'm currently studying Computer Systems Engineering and I'm passionate about web development. I work in Mexico City at XDEVELOP.
+  I'm Jorge Assaf, a Full-stack Web & Mobile Development from Mexico. I'm currently studying Computer Systems Engineering and I'm passionate about web development. I work in Mexico City at XDEVELOP.
   ### About me in code! </>
 
   ```typescript
   const jorgeAssaf = {
     pronouns: 'he' | 'him',
-    languages: ['JavaScript', 'TypeScript'],
-    tools: ['React', 'Next.js', 'Vite', 'Zustand', 'Prisma', 'Drizzle', 'Figma','Node'],
+    languages: ['JavaScript', 'TypeScript','Dart'],
+    tools: ['React', 'Next.js', 'Expo', 'React Native', 'Flutter', 'Vite', 'Zustand', 'Prisma', 'Drizzle','Node'],
     ui: ['TailwindCSS', 'Shadcn', 'UnoCSS', 'PandaCSS'],
-    focusing: 'Full-stack Development',
+    focusing: 'Full-stack Web & Mobile Development',
   };
   ```
   #### Send me a message or follow me on:
@@ -44,13 +44,12 @@
   [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
   ---
 
-  #### :trophy: My Top Languages
+#### :trophy: My Top Languages
 
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeAssaf&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JorgeAssaf&layout=compact&langs_count=4&theme=transparent)](https://github-stats-extended.vercel.app/api/top-langs?username=JorgeAssaf&layout=compact&langs_count=4&theme=transparent)
 
   ---
 
-  #### :bar_chart: My Github Stats and Streaks  
+#### :bar_chart: My Github Stats and Streaks  
  
-  ![Jorge Assaf's GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgeassaf&show_icons=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JorgeAssaf&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=JorgeAssaf&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&include_all_commits=true&theme=transparent)
